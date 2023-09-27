@@ -5,6 +5,7 @@ body{
     font-family: 'Montserrat', sans-serif;
     color: white;
     font-weight: 100;
+    text-align: center;
 }
 .text-title{
     text-align: center;
@@ -17,5 +18,12 @@ body{
     padding-bottom: 30px;
 }
 #footer-div{
+    clear: both;
     text-align: center;
+}
+#main-title-div{
+    clear: both;
+}
+div{
+    position: center;
 }
