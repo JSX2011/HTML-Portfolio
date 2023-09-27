@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+.text{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: 100;
+    text-align: center;
+}
+.text-title{
+    text-align: center;
+}
+.closing-title{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#footer-div{
+    clear: both;
+    text-align: center;
+}
+#main-title-div{
+    clear: both;
+}
+div{
+    position: center;
+}
